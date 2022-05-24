@@ -1,0 +1,6 @@
+Spark Streaming
+can ingest streams
+of data from sources
+like Kafka, Twitter,
+Kinesis,
+and Flume and file stores like HDFS and Amazon S3.

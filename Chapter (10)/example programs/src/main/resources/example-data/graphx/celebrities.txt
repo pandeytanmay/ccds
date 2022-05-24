@@ -1,0 +1,8 @@
+1,BarackObama,Barack Obama
+2,pmmodi,Narendra Modi
+3,bachchan,A Bachchan
+4,justinbieber,Justin Bieber
+5,mangeshkar,Lata Mangeshkar
+6,brown,D Brown
+7,rbond,Ruskin Bond
+8,norvig
